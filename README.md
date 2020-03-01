@@ -6,8 +6,11 @@
 #### // Student Name: 
 - Justin Snider 
 
-#### // Student Number: 
+#### // Student NetID: 
 - js10853
+
+#### // Student Univ ID: 
+- N17359442
 
 #### // Dataset From NYU Faculty:
 - y_train_new.csv
