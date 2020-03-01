@@ -6,8 +6,11 @@
 #### // Student Name: 
 - Justin Snider 
 
-#### // Student Number: 
+#### // Student NetID: 
 - js10853
+
+#### // Student Univ ID: 
+- N17359442
 
 #### // Dataset From NYU Faculty:
 - y_train_new.csv
@@ -37,3 +40,6 @@
   - We increased the number of hidden layers from 1 to 2. 
   - We increased the number of nodes on the hidden layers. 
 - Together with improving the settings (such as learning rate and epoch count) the updated neural network improved prediction rates on the test set from 80% to 95%. 
+
+## Results: 
+![stats graph](https://raw.githubusercontent.com/aobject/NYU-AI-Project-01/master/images/Stats.png?token=AEVXDABE4CME4QBGHVBXZRC6MR5CU)
