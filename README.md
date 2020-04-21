@@ -58,4 +58,5 @@
 - Together with improving the settings (such as learning rate and epoch count) the updated neural network improved prediction rates on the test set from 80% to 95%. 
 
 ## Results: 
-![stats graph](https://raw.githubusercontent.com/aobject/NYU-AI-Project-01/master/images/Stats.png?token=AEVXDABE4CME4QBGHVBXZRC6MR5CU)
+![stats graph](https://raw.githubusercontent.com/aobject/NYU-AI-Project-01/master/images/Stats.png?token=AEVXDAHEJFOA2CSJHAYAVDC6VAXXG)
+
